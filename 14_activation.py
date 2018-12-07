@@ -20,6 +20,7 @@ y_relu, y_sigmoid, y_tanh, y_softplus = sess.run([y_relu, y_sigmoid, y_tanh, y_s
 # Plot to visualize these activation function
 plt.figure(1, figsize=(8, 6))
 plt.subplot(221)
+# 2 2 1 - 2 2 2 - 2 2 3 - 2 2 4 - We have 4 figures (we make 4 spaces for them, and we put them in order 1, 2, 3, 4)
 plt.plot(x, y_relu, c='red', label='relu')
 plt.ylim((-1, 5))
 plt.legend(loc='best')

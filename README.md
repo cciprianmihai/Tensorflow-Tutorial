@@ -1,3 +1,3 @@
 # Tensorflow-Tutorial
 
-![Screenshot](images/tf.JPEG)
+![Screenshot](images/tf.jpeg)

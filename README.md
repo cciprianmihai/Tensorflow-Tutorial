@@ -10,3 +10,4 @@
   
 * Build your first network:
   * [Regression](21_regression.py)
+  * [Classification](22_classification.py)

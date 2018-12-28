@@ -12,3 +12,4 @@
   * [Regression](21_regression.py)
   * [Classification](22_classification.py)
   * [Save and reload processes](23_save_reload.py)
+  * [Optimizer](24_optimizer.py)

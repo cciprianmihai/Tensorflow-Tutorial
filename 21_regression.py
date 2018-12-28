@@ -33,7 +33,7 @@ sess.run(tf.global_variables_initializer())
 
 plt.ion()
 for step in range(100):
-    # Traing the network and output the result
+    # Training the network and output the result
     _, l, pred = sess.run([training, loss, layer_2], {tf_x: x, tf_y: y})
     if step % 5 == 0:
         # Plot and show learning process

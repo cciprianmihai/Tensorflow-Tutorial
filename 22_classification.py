@@ -40,7 +40,7 @@ sess.run(init_op)
 
 plt.ion()
 for step in range(100):
-    # Traing the network and output the result
+    # Training the network and output the result
     _, acc, pred = sess.run([train_op, accuracy, output], {tf_x: x, tf_y: y})
     if step % 2 == 0:
         # Plot and show learning process

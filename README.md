@@ -15,3 +15,6 @@
   * [Optimizer](24_optimizer.py)
   * [TensorBoard](25_tensorboard.py)
   * [Dataset](26_dataset.py)
+
+* In the current repository, we added the [Lectures from CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/):
+  * [Lecture](https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%201%20-%20Overview%20of%20Tensorflow/Lecture%20-%20Overview%20of%20Tensorflow.pdf), [Notes](https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%201%20-%20Overview%20of%20Tensorflow/Notes%20-%20Overview%20of%20Tensorflow.pdf) and <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%201%20-%20Overview%20of%20Tensorflow/Overview%20of%20Tensorflow.ipynb'>Implementation</A>

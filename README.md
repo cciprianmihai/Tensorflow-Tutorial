@@ -22,5 +22,9 @@
    * Stanford Lecture 3 - Linear and Logistic Regression - [Lecture](https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Lecture%20-%20Linear%20and%20Logistic%20Regression.pdf), [Notes](https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Notes%20-%20Linear%20and%20Logistic%20Regression.pdf), Implementations:
       * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Linear%20Regression%20with%20huber%20loss%20by%20high%20level.ipynb'>Implementation 1: Linear Regression with huber loss by high-level</A>;
       * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Linear%20Regression%20with%20huber%20loss%20by%20low%20level.ipynb'>Implementation 2: Linear Regression with huber loss by low-level</A>;
+      * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Linear%20Regression%20with%20mse%20loss.ipynb'>Implementation 3: Linear Regression with huber loss by low-level</A>;
+            
+      
+      
 
 

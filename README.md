@@ -29,5 +29,6 @@
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Basic%20mathematics%20using%20tensorflow%202.1.ipynb'>Basic mathematics using tensorflow 2.1</A>;
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Basic%20trainable%20variables%20using%20tensorflow%202.1.ipynb'>Basic trainable variables using tensorflow 2.1</A>;
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Training%20a%20Linear%20Regression%20Model.ipynb'>Training a Linear Regression Model</A>;
+  * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Training%20a%20Linear%20Regression%20Model.ipynb'>Training a Linear Regression Model</A>;
   
   

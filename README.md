@@ -34,6 +34,6 @@
   
 * Keras:
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/keras/%5Bkeras_io%5D_Intro_to_Keras_for_Engineers.ipynb'> Keras for Engineers tutorial</A>;
-  * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/keras/%5Bkeras_io%5D_Intro_to_Keras_for_Engineers.ipynb'> Keras for Engineers tutorial</A>.
+  * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/keras/%5Bkeras_io%5D_Intro_to_Keras_for_Researchers.ipynb'> Keras for tutorial</A>.
   
   

@@ -4,7 +4,7 @@
 
 * Neural Networks training:
   *  <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Train%20proper%20NN.pdf'>How to train and debug NN?</A>
-  *  <A href=' http://karpathy.github.io/2019/04/25/recipe/'>A Recipe for Training Neural Networks</A>.
+  *  <A href='http://karpathy.github.io/2019/04/25/recipe/'>A Recipe for Training Neural Networks</A>.
  
 * Tensorflow basic: 
   * [Session](11_session.py)

@@ -31,6 +31,7 @@
       * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Linear%20Regression%20with%20tf.data_de.ipynb'>Implementation 5: Linear Regression with `tf.data_de`</A>;
      * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Logistic%20Regression%20with%20ce%20loss.ipynb'>Implementation 6: Logistic Regression with ce loss</A>;
      * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Logistic%20Regression%20with%20tf.data.ipynb'>Implementation 7: Logistic Regression with `tf.data`</A>;
+     * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Stanford%20Lecture%203%20-%20Linear%20and%20Logistic%20Regression/Logistic%20Regression%20with%20tf.data_de.ipynb'>Implementation 8: Logistic Regression with `tf.data_de`</A>.
     
 * TF 2:
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Basic%20mathematics%20using%20tensorflow%202.1.ipynb'>Basic mathematics using tensorflow 2.1</A>;

@@ -49,6 +49,9 @@
   * Linear Regression (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/01_linear_regression.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/01_linear_regression.py'>Code</A>);
   * Logistic Regression (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/02_logistic_regression.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/02_logistic_regression.py'>Code</A>);
   * Feedforward Neural Network (Multilayer Perceptron) (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/03_net.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/03_net.py'>Code</A>);
+  * Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers) (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/04_modern_net.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/03_net.py'>Code</A>);
+  
+  
   
   
   

@@ -54,7 +54,7 @@
    * Denoising Autoencoder (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/06_autoencoder.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/06_autoencoder.py'>Code</A>);
    * Recurrent Neural Network (LSTM) (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/07_lstm.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/07_lstm.py'>Code</A>);
    * TensorBoard (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/09_tensorboard.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/09_tensorboard.py'>Code</A>);
-   * Save and restore net (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/10_save_restore_net.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/09_tensorboard.py'>Code</A>);
+   * Save and restore net (<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/10_save_restore_net.ipynb'>Notebook</A>, <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/blob/master/Oldie%20-%20goldie%20Keras/10_save_restore_net.py'>Code</A>).
    
   
    

@@ -40,6 +40,11 @@
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Training%20a%20Linear%20Regression%20Model.ipynb'>Training a Linear Regression Model</A>;
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Training%20a%20Logistic%20Regression%20Model.ipynb'> Training a Logistic Regression Model</A>;
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/tf%202/Training%20a%20Neural%20Network.ipynb'> Training a Neural Network Model</A>;
+
+* TF 2 Tutorial:
+  * <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/tree/master/TF%202%20_%20Tutorial/01-TF2.0-Overview'>Overview</A>;
+  
+
   
 * Keras:
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/keras/%5Bkeras_io%5D_Intro_to_Keras_for_Engineers.ipynb'> Keras for Engineers tutorial</A>;

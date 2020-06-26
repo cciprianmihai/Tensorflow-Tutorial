@@ -45,6 +45,7 @@
   * <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/tree/master/TF%202%20_%20Tutorial/01-TF2.0-Overview'>Overview</A>;
   * <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/tree/master/TF%202%20_%20Tutorial/02-AutoGraph'>AutoGraph</A>;
   * <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/tree/master/TF%202%20_%20Tutorial/03-Play-with-MNIST'>MNIST</A>;
+  * <A href='https://github.com/cciprianmihai/Tensorflow-Tutorial/tree/master/TF%202%20_%20Tutorial/04-Linear-Regression'>Linear Regression</A>;
   
 * Keras:
   * <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tensorflow-Tutorial/blob/master/keras/%5Bkeras_io%5D_Intro_to_Keras_for_Engineers.ipynb'> Keras for Engineers tutorial</A>;
